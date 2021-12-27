@@ -127,3 +127,23 @@
 // for (var i= 50; i<=100; i++) {
 //     console.log(i)
 // }
+
+var smart = prompt("Какой у вас смартфон?");
+if (smart === "Samsung") {
+    alert ("Ваш код 01");
+}
+else if (smart === "Huawei") {
+    alert ("02")
+}
+else if (smart === "Honor") {
+    alert ("03")
+}
+else if (smart === "Xiaomi") {
+    alert ("04")
+}
+else if (smart === "iphones") {
+    alert ("05")
+}
+else if (smart === "другое") {
+    alert ("06")
+}
