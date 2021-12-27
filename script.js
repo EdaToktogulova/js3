@@ -133,17 +133,17 @@ if (smart === "Samsung") {
     alert ("Ваш код 01");
 }
 else if (smart === "Huawei") {
-    alert ("02")
+    alert ("Ваш код 02")
 }
 else if (smart === "Honor") {
-    alert ("03")
+    alert ("Ваш код 03")
 }
 else if (smart === "Xiaomi") {
-    alert ("04")
+    alert ("Ваш код 04")
 }
 else if (smart === "iphones") {
-    alert ("05")
+    alert ("Ваш код 05")
 }
 else if (smart === "другое") {
-    alert ("06")
+    alert ("Ваш код 06")
 }
